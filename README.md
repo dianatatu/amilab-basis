@@ -1,2 +1,2 @@
-AmiLab Basis Integration
+AmI-Lab Basis Integration
 ================
