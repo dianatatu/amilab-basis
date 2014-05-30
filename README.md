@@ -1,2 +1,2 @@
-amilab-hr-alerts
+AmiLab Basis Integration
 ================
