@@ -1,0 +1,4 @@
+check process ami-daq-kinect
+	with pidfile /var/run/ami-daq-kinect.pid
+	start = "/usr/sbin/service ami-daq-kinect start"
+	stop = "/usr/sbin/service ami-daq-kinect stop"
