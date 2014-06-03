@@ -6,6 +6,7 @@ from smtplib import SMTP, SMTPException
 
 
 # Default email configs.
+# http://www.tutorialspoint.com/python/python_sending_email.htm
 SENDER = 'ami@amilab.com'
 SENDER_NAME = 'AmI Lab'
 RECEIVER = 'diana.tatu@gmail.com'
