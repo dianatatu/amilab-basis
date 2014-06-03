@@ -1,0 +1,4 @@
+check process ami-email-sender
+	with pidfile /var/run/ami-email-sender.pid
+	start = "/usr/sbin/service ami-email-sender start"
+	stop = "/usr/sbin/service ami-email-sender stop"
